@@ -1,5 +1,5 @@
 # Media Search Service
-### Gustavo Munoz
+### Gustavo M.
 
 # Introduction
 This project is an integration with external open APIs to retrieve, parse and display media content. There are two types of media content: movie and music media information. 
